@@ -1,0 +1,2 @@
+django-admin startproject Xenon
+python3 manage.py startapp Neeraj
